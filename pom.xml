@@ -50,7 +50,7 @@
 			<url>http://domain:port/content/repositories/releases</url>
 		</repository>
 		<snapshotRepository>
-			<id>nexus</id>
+			<id>deployment</id>
 			<name>snapshots</name>
 			<url>http://34.66.90.234:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
